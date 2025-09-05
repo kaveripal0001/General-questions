@@ -1,2 +1,2 @@
-# lab-agile-planning
-This repository contains the lab for agile planning
+# General questions
+This repository contains the some general questions.
